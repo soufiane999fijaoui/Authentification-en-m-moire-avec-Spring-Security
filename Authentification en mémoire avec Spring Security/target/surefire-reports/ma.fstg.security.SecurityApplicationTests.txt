@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ma.fstg.security.SecurityApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.836 s -- in ma.fstg.security.SecurityApplicationTests
